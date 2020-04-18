@@ -1,0 +1,62 @@
+body {
+    background-color: #f9f9f9;
+}
+
+.box-div {
+    width: 550px;
+    margin: 50px auto;
+    position: relative;
+    display: block
+}
+
+.input-radius {
+    text-align: left;
+    position: absolute;
+    width: 50px;
+}
+
+.left-top {
+    top: -39px;
+    left: -10px;
+}
+
+.left-bottom {
+    top: 299px;
+    left: -10px;
+}
+
+.right-top {
+    top: -39px;
+    left: 510px
+}
+
+.right-bottom {
+    top: 299px;
+    left: 510px;
+}
+
+#box {
+    border: solid 1px;
+    width: 460px;
+    height: 292px;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+#textArea {
+    background: transparent;
+    width: 90%;
+}
+
+.result {
+    margin-top: 100px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.w-40 {
+    width: 40% !important;
+}
