@@ -1,6 +1,5 @@
-# BorderRadiusPreviewer
+# BorderRadiusPreviewer (https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Border-Radius-Previewer.md)
 
-idea from: https://github.com/florinpop17/app-ideas
 **Tier:** 1-Beginner
 
 The border-radius property can have multiple values changed. Preview how the shape looks while changing these values.
